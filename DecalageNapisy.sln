@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecalageNapisy", "DecalageNapisy\DecalageNapisy.csproj", "{CAC9306E-354A-4E44-AA8C-606D798A8A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC9306E-354A-4E44-AA8C-606D798A8A82}.Debug|x86.ActiveCfg = Debug|x86
+		{CAC9306E-354A-4E44-AA8C-606D798A8A82}.Debug|x86.Build.0 = Debug|x86
+		{CAC9306E-354A-4E44-AA8C-606D798A8A82}.Release|x86.ActiveCfg = Release|x86
+		{CAC9306E-354A-4E44-AA8C-606D798A8A82}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
